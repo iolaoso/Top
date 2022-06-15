@@ -25,7 +25,9 @@ import butterknife.ButterKnife;
  * All rights reserved 2017
  */
 
-// TODO: 15/06/2022    
+// TODO: 15/06/2022
+
+    // este es el cambio para la version en github
 public class ArtistaAdapter extends RecyclerView.Adapter<ArtistaAdapter.ViewHolder> {
 
     private List<Artista> artistas;
